@@ -1,3 +1,3 @@
 # Activitats de repàs!
 
-###Exercici 1:
+### Exercici 1:
